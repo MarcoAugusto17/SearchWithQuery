@@ -11,9 +11,9 @@ Este projeto foi desenvolvido como parte de um curso sobre MVVM disponível na U
 
 - Aparência da Aplicação
 A seguir, uma captura de tela da aplicação:
-![app](https://github.com/user-attachments/assets/cae01c54-d7df-4336-96c0-f5ccd36c1e37)
+
+![app_img](https://github.com/user-attachments/assets/4aa8ef84-d780-44be-9fb8-1530d50d6964)
 
 
-Nota
-Planejo adicionar comentários e uma descrição mais detalhada da aplicação no futuro.
+- Nota: Planejo adicionar comentários e uma descrição mais detalhada da aplicação no futuro.
 Espero que este projeto seja tão útil para você quanto tem sido para mim em outras ocasiões.
